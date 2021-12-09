@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chat Bot</string>
+    <string name="greeting">Hi There!</string>
+    <string name="greeting1">Welcome to ChatBot..</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="text1">Register Here!</string>
+    <string name="text2">Create an account with your details.</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="contactno.">Contact Number</string>
+    <string name="password">Password</string>
+    <string name="text3">Already have an account!!</string>
+    <string name="text4">Welcome Back!</string>
+    <string name="text5">Fill out your Credentials to continue.</string>
+    <string name="text6">Do not have an account?</string>
+    <string name="text7">Hello Disha!</string>
+    <string name="text8">How may I help you today?</string>
+    <string name="text9">Click below to continue...</string>
+    <string name="text10">Ask Anything...</string>
+</resources>

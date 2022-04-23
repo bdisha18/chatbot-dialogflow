@@ -6,7 +6,7 @@ A chatbot is a piece of software that conducts a conversation via auditory or te
 
 Dialogflow is a Google-owned developer of human – computer interaction technologies based on natural language conversations. We can create AI agents to which can respond to user for the queries of user. Using Dialogflow we can add some contexts to make the agent reply with the information provided by developers. We can also have some extra Intents in Dialogflow to do the same.
 
-By using the Dialogflow API we can access the Dialogflow agent through our android application and get the responses. This application also has speech to text support in the chatbot. Using this speech to text conversion user can have conversations with the chatbot using speech.
+By using the Dialogflow API we can access the Dialogflow agent through our android application and get the responses. This application also has speech to text support and text to speech in the chatbot. Using this user can have conversations with the chatbot using speech.
 
 ## Application Screenshots
 

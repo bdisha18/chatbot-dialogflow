@@ -11,7 +11,5 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
 ## Application Screenshots
 
 
-<img width="293" alt="Screenshot 2022-04-23 at 22 00 29" src="https://user-images.githubusercontent.com/54524062/164914840-1e061676-ef1c-48bb-bf6e-df443375c49e.png">
-
-<img width="293" alt="Screenshot 2022-04-23 at 21 47 12" src="https://user-images.githubusercontent.com/54524062/164914865-4f19e646-c7c0-4de4-885c-567c5dae09cd.png">
+<img width="293" alt="Screenshot 2022-04-23 at 22 00 29" src="https://user-images.githubusercontent.com/54524062/164914840-1e061676-ef1c-48bb-bf6e-df443375c49e.png">  <img width="293" alt="Screenshot 2022-04-23 at 21 47 12" src="https://user-images.githubusercontent.com/54524062/164914865-4f19e646-c7c0-4de4-885c-567c5dae09cd.png">
 

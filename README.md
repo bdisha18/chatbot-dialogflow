@@ -10,10 +10,8 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
 
 ## Application Screenshots
 
-<img width="293" alt="Screenshot 2022-04-23 at 21 52 00" src="https://user-images.githubusercontent.com/54524062/164914644-553487c6-948e-48be-954a-060d3df25f5a.png">
-<img width="293" alt="Screenshot 2022-04-23 at 21 47 12" src="https://user-images.githubusercontent.com/54524062/164914646-402676f7-115c-4c14-a1bf-c906c02e425c.png">
-<img width="293" alt="Screenshot 2022-04-23 at 21 40 58" src="https://user-images.githubusercontent.com/54524062/164914647-77c04bf1-a551-40b4-b084-90f46c3d0d24.png">
-<img width="293" alt="Screenshot 2022-04-23 at 21 40 49" src="https://user-images.githubusercontent.com/54524062/164914648-83c11a29-297b-490f-8da0-099adb734591.png">
-<img width="293" alt="Screenshot 2022-04-23 at 21 40 10" src="https://user-images.githubusercontent.com/54524062/164914650-4ac3de3c-f39e-4541-b0e1-eb6a77cd9525.png">
 
+<img width="293" alt="Screenshot 2022-04-23 at 22 00 29" src="https://user-images.githubusercontent.com/54524062/164914840-1e061676-ef1c-48bb-bf6e-df443375c49e.png">
+
+<img width="293" alt="Screenshot 2022-04-23 at 21 47 12" src="https://user-images.githubusercontent.com/54524062/164914865-4f19e646-c7c0-4de4-885c-567c5dae09cd.png">
 
